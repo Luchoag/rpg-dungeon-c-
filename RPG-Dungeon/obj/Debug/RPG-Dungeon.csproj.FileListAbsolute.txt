@@ -1,0 +1,7 @@
+C:\Users\Casa\AppData\Local\Temporary Projects\RPG-Dungeon\bin\Debug\RPG-Dungeon.exe.config
+C:\Users\Casa\Documents\Visual Studio 2012\Projects\RPG-Dungeon\RPG-Dungeon\bin\Debug\RPG-Dungeon.exe.config
+C:\Users\Casa\Documents\Visual Studio 2012\Projects\RPG-Dungeon\RPG-Dungeon\bin\Debug\RPG-Dungeon.exe
+C:\Users\Casa\Documents\Visual Studio 2012\Projects\RPG-Dungeon\RPG-Dungeon\bin\Debug\RPG-Dungeon.pdb
+C:\Users\Casa\Documents\Visual Studio 2012\Projects\RPG-Dungeon\RPG-Dungeon\obj\Debug\RPG-Dungeon.csprojResolveAssemblyReference.cache
+C:\Users\Casa\Documents\Visual Studio 2012\Projects\RPG-Dungeon\RPG-Dungeon\obj\Debug\RPG-Dungeon.exe
+C:\Users\Casa\Documents\Visual Studio 2012\Projects\RPG-Dungeon\RPG-Dungeon\obj\Debug\RPG-Dungeon.pdb
